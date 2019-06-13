@@ -1,6 +1,6 @@
 def monopoly
 		monopoly ={
-   "kyler" => {railroads: "kyler", hobbies:[]}
+   "kyler" => {railroads: "kyler", work: {} hobbies:[]}
 }
 	}
 
