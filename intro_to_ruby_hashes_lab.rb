@@ -1,5 +1,7 @@
 def monopoly
-	monopoly = {}
+	monopoly = {
+		"kyler" => name: "kyler", work: "from home", hobbies:["coding", "games"]
+	}
 
 end
 
